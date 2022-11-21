@@ -19,7 +19,7 @@ In addition to the license, we only release the dataset for those who intend to 
 Those who wish to get access, please submit the below google form.
 
 
-[📩 GOOGLE FORM 📩](https://forms.gle/QaS1BnGdYDixgEjJ6)
+[📩 GOOGLE FORM 📩](https://docs.google.com/forms/d/e/1FAIpQLSerUAtY02Y_opU0h_RqPU5BQTVowDxKUc7zbpFMk9GvdwkWYA/viewform?usp=sf_link)
 
 ## 😽 Whatsup data?
 We will send you a link containing four files if your application is processed.
